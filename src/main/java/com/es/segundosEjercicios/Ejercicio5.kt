@@ -1,4 +1,4 @@
-package com.es
+package com.es.segundosEjercicios
 /*
 * Ejercicio5:
 *
